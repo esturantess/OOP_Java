@@ -1,4 +1,4 @@
-package org.example.task12;
+package Sem1.task12;
 
 import java.util.List;
 

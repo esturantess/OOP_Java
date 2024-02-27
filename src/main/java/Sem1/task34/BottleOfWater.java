@@ -1,4 +1,4 @@
-package task34;
+package Sem1.task34;
 
 public class BottleOfWater extends Product{
 

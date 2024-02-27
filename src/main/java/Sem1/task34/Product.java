@@ -1,4 +1,4 @@
-package task34;
+package Sem1.task34;
 
 public abstract class Product {
     private int id;
